@@ -1,0 +1,44 @@
+title : "Unsere Leistungen"
+content: |
+  Wir bieten Ihnen das ganze Spektrum des Garten- und Landschaftsbaus.
+style: "style1 small onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Gartengestaltung"
+    content : " "
+    style : "style2 major fa-gem"
+
+  # feature item loop
+  - name : "Natur und Betonsteinarbeiten"
+    content : " "
+    style : "solid style2 major fa-save"
+    
+  # feature item loop
+  - name : "Wege und Zufahrten"
+    content : " "
+    style : "solid style2 major fa-chart-bar"
+    
+  # feature item loop
+  - name : "Plätze und Terrassen"
+    content : " "
+    style : "solid style2 major fa-cog"
+    
+  # feature item loop
+  - name : "Hausmeisterservice"
+    content : " "
+    style : "solid style2 major fa-cog"
+    
+  # feature item loop
+  - name : "Sichtschutz"
+    content : " "
+    style : "style2 major fa-paper-plane"
+  
+  # feature item loop
+  - name : "Erdarbeiten Bagerarbeiten"
+    content : " "
+    style : "style2 major fa-paper-plane"
+  
+  # feature item loop
+  - name : "Rollrasen anlegen"
+    content : " "
+    style : "style2 major fa-paper-plane"

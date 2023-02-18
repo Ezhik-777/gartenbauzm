@@ -1,0 +1,67 @@
+title: "Beispiele unserer Arbeit"
+style: "style2 small lightbox onscroll-fade-in"
+content: |
+pictures:
+  - image: "images/gallery/fulls/1-1.png"
+    thumb: "images/gallery/thumbs/1-1.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/1-2.png"
+    thumb: "images/gallery/thumbs/1-2.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/1-3.png"
+    thumb: "images/gallery/thumbs/1-3.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/2-1.png"
+    thumb: "images/gallery/thumbs/2-1.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/2-2.png"
+    thumb: "images/gallery/thumbs/2-2.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/3-1.png"
+    thumb: "images/gallery/thumbs/3-1.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/3-2.png"
+    thumb: "images/gallery/thumbs/3-2.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/4-1.png"
+    thumb: "images/gallery/thumbs/4-1.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/4-2.png"
+    thumb: "images/gallery/thumbs/4-2.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/5-1.png"
+    thumb: "images/gallery/thumbs/5-1.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/9.png"
+    thumb: "images/gallery/thumbs/9.png"
+    button: "Vergrößern"
+    
+  - image: "images/gallery/fulls/5-2.png"
+    thumb: "images/gallery/thumbs/5-2.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/6-1.png"
+    thumb: "images/gallery/thumbs/6-1.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/6-2.png"
+    thumb: "images/gallery/thumbs/6-2.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/7.png"
+    thumb: "images/gallery/thumbs/7.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/8.png"
+    thumb: "images/gallery/thumbs/8.png"
+    button: "Vergrößern"
