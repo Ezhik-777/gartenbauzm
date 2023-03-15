@@ -14,20 +14,20 @@ pictures:
     thumb: "images/gallery/thumbs/12.png"
     button: "Vergrößern"
 
-  - image: "images/gallery/fulls/15.png"
-    thumb: "images/gallery/thumbs/15.png"
-    button: "Vergrößern"
-
-  - image: "images/gallery/fulls/16.png"
-    thumb: "images/gallery/thumbs/16.png"
-    button: "Vergrößern"
-
   - image: "images/gallery/fulls/13.png"
     thumb: "images/gallery/thumbs/13.png"
     button: "Vergrößern"
 
   - image: "images/gallery/fulls/14.png"
     thumb: "images/gallery/thumbs/14.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/15.png"
+    thumb: "images/gallery/thumbs/15.png"
+    button: "Vergrößern"
+
+  - image: "images/gallery/fulls/16.png"
+    thumb: "images/gallery/thumbs/16.png"
     button: "Vergrößern"
 
   - image: "images/gallery/fulls/1-2.png"
