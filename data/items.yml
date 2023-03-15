@@ -9,7 +9,7 @@ items:
     style : "solid style2 major fa-leaf"
 
   # feature item loop
-  - name : "Natur und Betonsteinarbeiten"
+  - name : "Natur- und Betonsteinarbeiten"
     content : " "
     style : "solid style2 major fa-bolt"
     
