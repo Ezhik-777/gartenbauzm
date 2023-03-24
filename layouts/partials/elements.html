@@ -10,25 +10,20 @@
                                     </header>
                                     <div class="content">
 
-                                        <form method="post" action="#">
-                                            <div class="fields">
-                                                <div class="field half">
-                                                    <label for="name">Name</label>
-                                                    <input type="text" name="name" id="name" value="" />
-                                                </div>
-                                                <div class="field half">
-                                                    <label for="email">Email</label>
-                                                    <input type="email" name="email" id="email" value="" />
-                                                </div>
-                                                <div class="field">
-                                                    <label for="message">Nachricht</label>
-                                                    <textarea name="message" id="message" rows="6"></textarea>
-                                                </div>
-                                            </div>
-                                            <ul class="actions">
-                                                <li><input type="submit" name="submit" id="submit" value="Senden" /></li>
-                                            </ul>
+
+                                        <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xoqznyqb" method="post">
+                                          <fieldset id="fs-frm-inputs">
+                                            <label for="full-name">Name</label>
+                                            <input type="text" name="name" id="full-name" placeholder="Vor und Nachname" required="">
+                                            <label for="email-address">Email</label>
+                                            <input type="email" name="_replyto" id="email-address" placeholder="email@domain.de" required="">
+                                            <label for="message">Nachricht</label>
+                                            <textarea rows="5" name="message" id="message" placeholder="" required=""></textarea>
+                                            <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+                                          </fieldset>
+                                          <input type="submit" value="Submit">
                                         </form>
+                                        
 
                                     </div>
                                 </section>
